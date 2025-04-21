@@ -1,6 +1,6 @@
 # Olá! Meu nome é Leonardo
 
-- 💼 Desenvolvedor Backend na americanas s.a.
+- 💼 Desenvolvedor Backend na <a href="https://www.americanas.com.br" target="_blank">@americanas s.a.</a>
 - 🎓 Graduando em Sistemas de Informação pela Unilasalle-RJ.
 - 🌱 Estudando Desenvolvimento Backend com Python.
 
